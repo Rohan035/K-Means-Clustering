@@ -25,6 +25,7 @@ Species are called Labels/Dependent-variable/Output-variable/class-label/Respons
 ## Visual Exploratory Data
  
   <a><img src='iris.png' /></a>
+
 As you can see after execution of the plot ,the data distribution among setosa, virginica, versicolor are equal so iris dataset is a Balanced dataset (as the number of data points for every class is 50).
 
   <a><img src='irisplot.png' /></a>
